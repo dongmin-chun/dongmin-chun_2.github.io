@@ -2,13 +2,14 @@
 # Name of website
 title: Dongmin Chun
 
+#logo: /dd/dd.png
+
+# text below image
 description: Economist \\ Bank of Korea
 
 
 email: "dmchun90[at]gmail[dot]com"
 
 
-#logo: /dd/dd.png
-#description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal

@@ -12,4 +12,6 @@ email: "dmchun90[at]gmail[dot]com"
 
 
 #show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"

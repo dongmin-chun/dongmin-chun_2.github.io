@@ -1,17 +1,43 @@
 
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+author:
+  name   : "Dongmin Chun"
+  #avatar : "/assets/images/rg.jpg"
+  bio    : >-
+    My name is Renato.
+
+    I was born in Naples, Italy but I've been living in Stockholm, Sweden since 2008.
+    I love working with .NET and AWS and to combine the two together.
+    You can read more about me in the [About me](/about/) section.
+  location: "Stockholm, Sweden"
+  #twitter: "Kralizek"
+  #linkedin: "renatogolia"
+  #github: "Kralizek"
+  #stackoverflow: "82540"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:renato@golia.tech"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/resume-renato-golia.pdf"
+
+
 # Name of website
-title: Dongmin Chun
+#title: Dongmin Chun
 
 #logo: /dd/dd.png
 
 # text below image
-description: Economist \\ Bank of Korea
+#description: Economist \\ Bank of Korea
 
 
-email: "dmchun90[at]gmail[dot]com"
+#email: "dmchun90[at]gmail[dot]com"
 
 
 #show_downloads: true
 #theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+

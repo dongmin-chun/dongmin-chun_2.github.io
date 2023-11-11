@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Dongmin Chun
 
 # Your name to show in the footer
 author: Some Person
@@ -295,4 +295,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal

@@ -1,7 +1,6 @@
 ## Dongmin Chun
 
-#### I am an Economist at the Bank of Korea.
-* Here is my CV.
+#### I am an Economist at the Bank of Korea. Here is my CV.
 
 #### **Research Interests**:
 * Macroeconomics, Public Economics, Labor Economics

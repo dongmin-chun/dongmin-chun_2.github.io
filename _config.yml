@@ -1,6 +1,6 @@
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 author:
@@ -39,5 +39,5 @@ author:
 
 
 #show_downloads: true
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
